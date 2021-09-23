@@ -1,0 +1,2 @@
+int randomNum = (int)(Math.random() *3); // 0,1,2 인 3가지 수 중 랜덤하게 저장
+JOptionPane.showMessageDialog(null, randomNum); // randomNum 표시
